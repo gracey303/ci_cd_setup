@@ -20,6 +20,7 @@ function App() {
           <p>
             With CI / CD Setup
           </p>
+          <h1>Learning Pull Requests 🚀</h1>
         </div>
         <button
           type="button"
